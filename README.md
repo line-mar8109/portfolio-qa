@@ -5,8 +5,6 @@
 ### Quem sou
 Olá, meu nome é Aline, sou brasileira e atualmente moro no estado de Minas Gerais. Desde pequena, sempre fui apaixonada por qualquer coisa relacionada à tecnologia e, durante toda a minha vida, fui desenvolvendo interesse e conhecimento sobre a área. Além de tecnologia, tenho uma paixão por dança, onde, quando criança, fazia aulas de ballet clássico e contemporâneo, mas fui forçada a parar por ter mudado de escola e, posteriormente, não consegui voltar, pois descobri que tenho um problema no joelho que precisava de uma cirurgia urgente. Após finalizar o ensino médio, entrei na faculdade e iniciei o curso de Sistemas de Informação. Durante o período da faculdade, passei por 3 experiências de estágio nas áreas de infra, desenvolvimento e QA. Atualmente, sou formada e trabalho com QA. Recentemente, pude voltar a fazer aulas de ballet e, por mais que não tenha relação com QA, as aulas vêm me ajudado no meu trabalho como analista de testes.
 
-Aqui está a versão corrigida, mantendo ao máximo a forma como você escreveu:
-
 ### Qualidades e defeitos  
 - **Qualidades:**  
    - Aprendizado rápido  
