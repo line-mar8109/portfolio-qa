@@ -69,3 +69,81 @@ Iniciei minha carreira como analista de testes no ano de 2022 como estagiária, 
 - MongoDB  
 - Moodle  
 - Notion  
+-----
+# QA Portfolio - English Version
+
+## About Me
+
+### Who I Am  
+Hi, my name is Aline. I'm Brazilian and currently living in the state of Minas Gerais. Since I was little, I’ve always been passionate about anything related to technology. Throughout my life, I’ve developed both an interest in and knowledge of the tech field. Besides technology, I have a passion for dance. As a child, I took classical and contemporary ballet classes, but I had to stop after switching schools. Later, I couldn’t return to dance because I discovered a knee condition that required urgent surgery.
+
+After finishing high school, I started college and enrolled in the Information Systems program. During college, I had three internship experiences in infrastructure, development, and QA. I’m now a graduate and currently work in QA. Recently, I was able to return to ballet classes, and even though it’s not directly related to QA, these classes have helped me a lot in my work as a test analyst.
+
+## Strengths and Weaknesses
+
+### Strengths:
+- Fast learner  
+- Curiosity  
+- Responsibility  
+- Teamwork  
+- Intelligence  
+- Creativity  
+- Honesty  
+- Discipline  
+- Flexibility  
+- Organization  
+- Practicality  
+- Logical reasoning  
+
+### Weaknesses:
+- Difficulty socializing  
+- Tendency to hyper-focus on a single task  
+- Speaking too softly or too little  
+
+## My Experience
+
+### How I Started in the Field  
+I began my career as a test analyst in 2022 as an intern, but before that, I worked as a development intern. However, I was dissatisfied with my progress in development. Then, one day, a QA internship opportunity came up at the same company, and I decided to take on the challenge. Since then, I’ve fallen in love with the QA field.
+
+I’ve been working as a Junior Test Analyst for 2 years now. During this time, I’ve developed knowledge in various tools, techniques, programming languages, and many other essentials of the field. My studies are currently focused on automation and test management tools, but I’m always eager to learn more.
+
+## My Knowledge
+
+### QA Skills:
+- Manual testing  
+- Documentation creation  
+- API testing  
+- Test case creation  
+- Bug reporting  
+- E2E testing  
+- Smoke testing  
+- Load testing  
+- Exploratory testing  
+- Regression testing  
+- JavaScript for automation and data manipulation in MongoDB  
+- TypeScript for automation  
+- Basic Python  
+- Basic SQL  
+- Data analysis and manipulation in databases  
+- BDD (Behavior-Driven Development)  
+- Diagram creation  
+
+### Tools I’ve Worked With:
+- GitLab  
+- Git  
+- GitHub  
+- Markdown  
+- Postman  
+- Cypress  
+- Newman  
+- Visual Studio Code  
+- PyCharm  
+- JMeter  
+- Google Workspace tools  
+- Google Cloud Platform  
+- Docker  
+- Bash  
+- Linux  
+- MongoDB  
+- Moodle  
+- Notion  
